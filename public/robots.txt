@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.onlinecasinosinlicencia.eu.com/sitemap.xml
+Sitemap: https://onlinecasinosinlicencia.vercel.app/sitemap.xml
